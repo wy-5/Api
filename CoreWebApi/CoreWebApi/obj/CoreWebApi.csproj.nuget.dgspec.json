@@ -1,0 +1,100 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\学习哦\\自学\\项目\\CoreWebApi\\CoreWebApi\\CoreWebApi.csproj": {}
+  },
+  "projects": {
+    "F:\\学习哦\\自学\\项目\\CoreWebApi\\CoreWebApi.Dto\\CoreWebApi.Dto.csproj": {
+      "restore": {
+        "projectUniqueName": "F:\\学习哦\\自学\\项目\\CoreWebApi\\CoreWebApi.Dto\\CoreWebApi.Dto.csproj",
+        "projectName": "CoreWebApi.Dto",
+        "projectPath": "F:\\学习哦\\自学\\项目\\CoreWebApi\\CoreWebApi.Dto\\CoreWebApi.Dto.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "F:\\学习哦\\自学\\项目\\CoreWebApi\\CoreWebApi\\CoreWebApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\学习哦\\自学\\项目\\CoreWebApi\\CoreWebApi\\CoreWebApi.csproj",
+        "projectName": "CoreWebApi",
+        "projectPath": "F:\\学习哦\\自学\\项目\\CoreWebApi\\CoreWebApi\\CoreWebApi.csproj",
+        "packagesPath": "C:\\Users\\18365\\.nuget\\packages\\",
+        "outputPath": "F:\\学习哦\\自学\\项目\\CoreWebApi\\CoreWebApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "E:\\visual studio SDK\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\18365\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "F:\\学习哦\\自学\\项目\\CoreWebApi\\CoreWebApi.Dto\\CoreWebApi.Dto.csproj": {
+                "projectPath": "F:\\学习哦\\自学\\项目\\CoreWebApi\\CoreWebApi.Dto\\CoreWebApi.Dto.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

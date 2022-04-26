@@ -1,0 +1,5 @@
+F:\学习哦\自学\项目\CoreWebApi\CoreWebApi.Dto\obj\Debug\CoreWebApi.Dto.csproj.CoreCompileInputs.cache
+F:\学习哦\自学\项目\CoreWebApi\CoreWebApi.Dto\bin\Debug\CoreWebApi.Dto.dll
+F:\学习哦\自学\项目\CoreWebApi\CoreWebApi.Dto\bin\Debug\CoreWebApi.Dto.pdb
+F:\学习哦\自学\项目\CoreWebApi\CoreWebApi.Dto\obj\Debug\CoreWebApi.Dto.dll
+F:\学习哦\自学\项目\CoreWebApi\CoreWebApi.Dto\obj\Debug\CoreWebApi.Dto.pdb
